@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/marcie/libprocess-start/my_hello/stout_learning/lele_option_usage.cpp
+algorithm
+-
+string
+-
+gmock/gmock.h
+-
+stout/gtest.hpp
+-
+stout/none.hpp
+-
+stout/option.hpp
+-
+

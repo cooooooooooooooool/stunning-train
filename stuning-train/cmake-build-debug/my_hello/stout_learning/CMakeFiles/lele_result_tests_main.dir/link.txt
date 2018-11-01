@@ -1,0 +1,1 @@
+/usr/bin/c++   -O2 -std=c++11 -O2 -std=c++11 -std=c++11 -g  -rdynamic CMakeFiles/lele_result_tests_main.dir/lele_result_tests.cpp.o  -o lele_result_tests_main -lgmock -lgtest -lpthread 

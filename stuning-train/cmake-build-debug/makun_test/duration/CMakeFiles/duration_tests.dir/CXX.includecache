@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/marcie/libprocess-start/makun_test/duration/duration_tests.cpp
+gtest/gtest.h
+-
+gmock/gmock.h
+-
+stout/duration.hpp
+-
+stout/gtest.hpp
+-
+stout/stringify.hpp
+-
+stout/try.hpp
+-
+
