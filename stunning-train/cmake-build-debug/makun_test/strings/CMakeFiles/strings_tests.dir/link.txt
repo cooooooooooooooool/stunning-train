@@ -1,1 +1,0 @@
-/usr/bin/c++   -O2 -std=c++11 -O2 -std=c++11 -g  -rdynamic CMakeFiles/strings_tests.dir/strings_tests.cpp.o  -o strings_tests -lgmock -lgtest -lglog -lpthread 

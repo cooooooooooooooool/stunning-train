@@ -1,1 +1,0 @@
-/usr/bin/c++   -O2 -std=c++11 -O2 -std=c++11 -std=c++11 -g  -rdynamic CMakeFiles/lele_stout_my_learning_main.dir/lele_stout_my_learning.cpp.o  -o lele_stout_my_learning_main -lgmock -lgtest -lpthread 
