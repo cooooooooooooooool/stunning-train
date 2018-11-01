@@ -1,0 +1,11 @@
+message teacher {
+    required string career = 4;
+    //message chinese{
+        required string name = 1;
+        required int32 id = 2;
+        optional int32 age = 3;
+//    }
+//    required chinese name = 1;
+//    required chinese id = 2;
+//    required chinese age = 3;
+}
