@@ -1,1 +1,0 @@
-/usr/bin/c++   -O2 -std=c++11 -O2 -std=c++11 -g  -rdynamic CMakeFiles/http_tests.dir/http_tests.cpp.o  -o http_tests -lprocess -lgmock -lgtest -lglog -lpthread 

@@ -1,1 +1,0 @@
-/usr/bin/c++   -O2 -std=c++11 -O2 -std=c++11 -std=c++11 -g  -rdynamic CMakeFiles/lele_option_usage_main.dir/lele_option_usage.cpp.o  -o lele_option_usage_main -lgmock -lgtest -lpthread 
